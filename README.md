@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋
 
-Computer Science student focused on cybersecurity and identity & access management (IAM).
+I am a 4th year Computer Science student at the University of Manitoba focused on cybersecurity and identity & access management (IAM).
 
 ## 🛠️ Experience
 - Microsoft Entra ID, Intune, Active Directory
