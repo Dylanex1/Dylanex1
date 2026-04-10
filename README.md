@@ -18,8 +18,10 @@ I am a 4th year Computer Science student at the University of Manitoba focused o
 - Database systems and backend development
 
 ## 📂 Projects
-- 🔥 SIEM Lab (in progress)
-- 🔐 Security Vulnerability Lab (planned)
+- Working on:
+  - SIEM Lab
+  - Security Vulnerability Lab (planned)
+
 
 ## 📚 Currently Working On
 - CompTIA Security+
