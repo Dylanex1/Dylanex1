@@ -3,7 +3,7 @@
 Computer Science student focused on cybersecurity and identity & access management (IAM).
 
 ## 🛠️ Experience
-- Microsoft Entra ID (Azure AD), Intune, Active Directory
+- Microsoft Entra ID, Intune, Active Directory
 - Conditional Access & passwordless authentication
 - Network infrastructure (Ubiquiti UniFi, Starlink)
 - Asset management (FreshService)
@@ -11,7 +11,11 @@ Computer Science student focused on cybersecurity and identity & access manageme
 ## 🔐 Security Focus
 - SIEM (Splunk) – building detection & alerting lab
 - Security labs: SQL Injection, Race Conditions, SUID, Cryptography
-- Network analysis (Wireshark, tcpdump)
+- Network analysis: Wireshark, tcpdump
+
+## 💻 Technical Background
+- Distributed systems (P2P), operating systems (schedulers, filesystems)
+- Database systems and backend development
 
 ## 📂 Projects
 - 🔥 SIEM Lab (in progress)
@@ -19,7 +23,7 @@ Computer Science student focused on cybersecurity and identity & access manageme
 
 ## 📚 Currently Working On
 - CompTIA Security+
-- SIEM detection rules & monitoring
+- Expanding SIEM detection capabilities
 
 ## 🎯 Interests
-Cybersecurity, IAM, security operations, and defensive security.
+Cybersecurity, IAM, and security operations
